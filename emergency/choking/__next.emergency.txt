@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[39756,["/ninho-app/_next/static/chunks/0hzn0oxeaq2dy.js","/ninho-app/_next/static/chunks/14mrh2-p_w84d.js","/ninho-app/_next/static/chunks/08ba1g8cn3syh.js"],"default"]
-3:I[37457,["/ninho-app/_next/static/chunks/0hzn0oxeaq2dy.js","/ninho-app/_next/static/chunks/14mrh2-p_w84d.js","/ninho-app/_next/static/chunks/08ba1g8cn3syh.js"],"default"]
+2:I[39756,["/ninho-app/_next/static/chunks/0hzn0oxeaq2dy.js","/ninho-app/_next/static/chunks/14mrh2-p_w84d.js","/ninho-app/_next/static/chunks/30viera9ri_it.js"],"default"]
+3:I[37457,["/ninho-app/_next/static/chunks/0hzn0oxeaq2dy.js","/ninho-app/_next/static/chunks/14mrh2-p_w84d.js","/ninho-app/_next/static/chunks/30viera9ri_it.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"bzgD5sT92gl-L3ccSdA98"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"ZqzaPD8DYnrcY3N0orBsK"}
